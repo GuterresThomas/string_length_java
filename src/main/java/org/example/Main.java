@@ -13,7 +13,7 @@ public class Main {
     }
 
     public static String longestWithAnAnnouncement (String x, String y, String ann) {
-        System.out.println("Announcement" + ann);
+        System.out.println("Announcement is " + ann);
         if (x.length() > y.length()) {
             return x;
         } else {
