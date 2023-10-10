@@ -8,7 +8,7 @@ public class Main {
         String string1 = "kaosasjdsajkd";
         String string2 = "xyz";
 
-        String result = longestWithAnAnnouncement(string1, string2, "Today is someone's birthday!");
+        String result = longestWithAnAnnouncement(string1, string2, "Loading");
         System.out.println("The longest string is " + result);
     }
 
